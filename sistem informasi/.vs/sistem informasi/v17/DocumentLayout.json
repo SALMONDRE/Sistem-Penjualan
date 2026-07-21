@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.Transaksi.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.UserLogin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\rpttransaksi.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\rpttransaksi.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmcetaklaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmcetaklaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmdatakategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmdatakategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmdatakategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmdatakategori.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmcetaklaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmcetaklaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\modulkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\modulkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmmenuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\dslaporan.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\dslaporan.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmLogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmLogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmdatauser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmdatauser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1C9F9EBF-E2FA-4AED-B90B-57625713B8EE}|sistem informasi\\sistem informasi.vbproj|solutionrelative:sistem informasi\\frmDataUser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Transaksi.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.Transaksi.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.Transaksi.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-21T21:53:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.UserLogin.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.UserLogin.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBUser/True/SqlTable/dbo.UserLogin.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-21T21:52:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptTransaksi.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\rptTransaksi.rdlc",
+              "RelativeDocumentMoniker": "sistem informasi\\rptTransaksi.rdlc",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\rptTransaksi.rdlc [Design]",
+              "RelativeToolTip": "sistem informasi\\rptTransaksi.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-07-02T12:54:19.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenuUtama.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmMenuUtama.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmMenuUtama.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmMenuUtama.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmMenuUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T13:20:25.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCetakLaporan.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmCetakLaporan.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmCetakLaporan.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmCetakLaporan.vb",
+              "RelativeToolTip": "sistem informasi\\frmCetakLaporan.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-02T13:20:11.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDataKategori.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataKategori.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmDataKategori.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataKategori.vb",
+              "RelativeToolTip": "sistem informasi\\frmDataKategori.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-12T14:42:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTransaksi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmTransaksi.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmTransaksi.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmTransaksi.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmTransaksi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-25T12:44:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDataKategori.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataKategori.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmDataKategori.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataKategori.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmDataKategori.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-12T14:39:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCetakLaporan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmCetakLaporan.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmCetakLaporan.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmCetakLaporan.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmCetakLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-02T13:03:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenuUtama.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmMenuUtama.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmMenuUtama.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmMenuUtama.vb",
+              "RelativeToolTip": "sistem informasi\\frmMenuUtama.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T13:31:58.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modulkoneksi.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\Modulkoneksi.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\Modulkoneksi.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\Modulkoneksi.vb",
+              "RelativeToolTip": "sistem informasi\\Modulkoneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-25T13:05:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dsLaporan.xsd",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\dsLaporan.xsd",
+              "RelativeDocumentMoniker": "sistem informasi\\dsLaporan.xsd",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\dsLaporan.xsd",
+              "RelativeToolTip": "sistem informasi\\dsLaporan.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-07-02T12:47:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmLogin.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmLogin.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T13:10:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTransaksi.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmTransaksi.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmTransaksi.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmTransaksi.vb",
+              "RelativeToolTip": "sistem informasi\\frmTransaksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-25T12:46:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDataUser.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataUser.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmDataUser.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataUser.vb [Design]",
+              "RelativeToolTip": "sistem informasi\\frmDataUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T13:33:24.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmLogin.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmLogin.vb",
+              "RelativeToolTip": "sistem informasi\\frmLogin.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-11T13:16:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDataUser.vb",
+              "DocumentMoniker": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataUser.vb",
+              "RelativeDocumentMoniker": "sistem informasi\\frmDataUser.vb",
+              "ToolTip": "C:\\Users\\HELLEN\\Desktop\\pertemuan 11 VB\\Sistem Informasi Backup\\sistem informasi\\sistem informasi\\frmDataUser.vb",
+              "RelativeToolTip": "sistem informasi\\frmDataUser.vb",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-25T13:07:26.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

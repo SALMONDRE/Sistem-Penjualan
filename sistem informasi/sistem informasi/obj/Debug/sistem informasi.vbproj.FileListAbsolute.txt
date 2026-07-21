@@ -1,0 +1,142 @@
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\sistem informasi.exe.config
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\sistem informasi.exe
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\sistem informasi.pdb
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\sistem informasi.xml
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.AssemblyReference.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.Form1.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmDataUser.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmLogin.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmMenuUtama.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.Resources.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.GenerateResource.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.CoreCompileInputs.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.exe
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.xml
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.pdb
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem informasi.exe.config
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmTransaksi.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\EnvDTE.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\stdole.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmCetakLaporan.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\sistem informasi\sistem informasi\obj\Debug\sistem i.093277DF.Up2Date
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\sistem informasi.exe.config
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\sistem informasi.exe
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\sistem informasi.pdb
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\sistem informasi.xml
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\EnvDTE.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\stdole.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.AssemblyReference.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.exe.config
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmCetakLaporan.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmDataKategori.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmDataUser.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmLogin.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmMenuUtama.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.frmTransaksi.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem_informasi.Resources.resources
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.GenerateResource.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.vbproj.CoreCompileInputs.cache
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem i.093277DF.Up2Date
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.exe
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.xml
+C:\Users\HELLEN\Desktop\pertemuan 11 VB\Sistem Informasi Backup\sistem informasi\sistem informasi\obj\Debug\sistem informasi.pdb
